@@ -1,0 +1,10 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+edition = "2021"
+authors = ["wolverine2k <nareshtechs@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mem = "0.5.0"
